@@ -1,4 +1,4 @@
-# Advanced Classification of Vesicular Transport Proteins Using Pre-trained Protein Language Models and Multi-Window Scanning Convolutional Neural Networks
+# Using Pre-trained Protein Language Models and Multiple Window Scanning Convolutional Neural Networks to Identify Vesicular Transport Proteins
 
 ## Abstract <a name="abstract"></a>
 
