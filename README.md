@@ -22,4 +22,5 @@ We provide a colab notebook for the Vesicular Transport Proteins Prediction base
 ```bash
 numpy==1.26.4
 tensorflow==2.12.1
+scikit-learn==1.5.1
 ```
