@@ -14,4 +14,4 @@
 | Total                        | 9787          | 1832         |
 
 ## 🚀&nbsp;Quick Prediction With Colab <a name="colab"></a>
-[<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://drive.google.com/file/d/1qSwXatr4nHeIgRdTNJxaz1mCu8ikkx-Z/view?usp=sharing)
+[<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/drive/133sbveFxzeSAA5BWngr6ocArhUuVW0R1?usp=sharing)
