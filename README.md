@@ -17,3 +17,9 @@
 We provide a colab notebook for the Vesicular Transport Proteins Prediction based on protein sequences.
 
 [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/drive/133sbveFxzeSAA5BWngr6ocArhUuVW0R1?usp=sharing)
+
+## 💾&nbsp;Requirements <a name="requirement"></a>
+```bash
+numpy==1.26.4
+tensorflow==2.12.1
+```
