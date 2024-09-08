@@ -14,4 +14,5 @@
 | Total                        | 9787          | 1832         |
 
 ## 🚀&nbsp;Quick Prediction With Colab <a name="colab"></a>
+We provide a colab notebook for the Vesicular Transport Proteins Prediction based on protein sequences.
 [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/drive/133sbveFxzeSAA5BWngr6ocArhUuVW0R1?usp=sharing)
