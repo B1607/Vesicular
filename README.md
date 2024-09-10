@@ -24,3 +24,5 @@ numpy==1.26.4
 tensorflow==2.12.1
 scikit-learn==1.5.1
 ```
+## 📚&nbsp;License <a name=" License"></a>
+Licensed under the Academic Free License version 3.0
