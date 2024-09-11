@@ -9,8 +9,8 @@
 
 | Dataset                      | Training data | Testing Data |
 |------------------------------|---------------|--------------|
-| Vesicular Transport Proteins | 658           | 165          |
-| Membrane Proteins            | 5908          | 1478         |
+| Vesicular                    | 658           | 165          |
+| Non-vesicular                | 5908          | 1478         |
 | Total                        | 6566          | 1643         |
 
 ## 🚀&nbsp;Quick Prediction With Colab <a name="colab"></a>
