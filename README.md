@@ -9,9 +9,9 @@
 
 | Dataset                      | Training data | Testing Data |
 |------------------------------|---------------|--------------|
-| Vesicular Transport Proteins | 2214          | 319          |
-| Membrane Proteins            | 7573          | 1513         |
-| Total                        | 9787          | 1832         |
+| Vesicular Transport Proteins | 658           | 165          |
+| Membrane Proteins            | 5908          | 1478         |
+| Total                        | 6566          | 1643         |
 
 ## 🚀&nbsp;Quick Prediction With Colab <a name="colab"></a>
 We provide a colab notebook for the Vesicular Transport Proteins Prediction based on protein sequences.
