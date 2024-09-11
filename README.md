@@ -3,7 +3,7 @@
 ## 🧬Abstract <a name="abstract"></a>
 <br>
 
-![workflow](figure/Flowchart.jpg)
+![workflow](figure/Flowchart.png)
 
 ## 📃Dataset <a name="Dataset"></a>
 
